@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @YOURxAYUSH
-- 👀 I’m interested in HACKING and AI
+- 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning PYTHON 
-- 💞️ I’m looking to collaborate on AI Projects 
-- 📫 How to reach me .......
+- 💞️ I’m looking to collaborate on Full Stack Projects
+- 📫 How to reach me email : vayuayu9568@gmail.com
 
 <!---
 YOURxAYUSH/YOURxAYUSH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
