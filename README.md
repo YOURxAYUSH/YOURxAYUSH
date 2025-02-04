@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YOURxAYUSH
+- 👋 Hi, I’m Ayush Varshney
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning PYTHON 
 - 💞️ I’m looking to collaborate on Full Stack Projects
