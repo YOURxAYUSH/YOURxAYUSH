@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building scalable web applications using modern frameworks like React and Node.js.<br><br>👯 I’m looking to collaborate on open source projects that enhance developer tools and community engagement.<br><br>🤝 I’m looking for help with optimizing performance, refining documentation, and testing new features for my current projects.<br><br>🌱 I’m currently learning advanced algorithms, cloud infrastructure management, and container orchestration.<br><br>💬 Ask me about anything from front-end development with JavaScript frameworks to best practices in API design.<br><br>⚡ Fun fact: I built my first website when I was 12, and my passion for coding has only grown since then!<br><br>📫 How to reach me email : ayush.codes01@gmail.com
+🔭 I’m currently working on building scalable web applications using modern frameworks like React and Node.js.<br><br>👯 I’m looking to collaborate on open source projects that enhance developer tools and community engagement.<br><br>🤝 I’m looking for help with optimizing performance, refining documentation, and testing new features for my current projects.<br><br>🌱 I’m currently learning advanced algorithms, cloud infrastructure management, and container orchestration.<br><br>💬 Ask me about anything from front-end development with JavaScript frameworks to best practices in API design.<br><br>⚡ Fun fact: I built my first website when I was 18, and my passion for coding has only grown since then!<br><br>📫 How to reach me email : ayush.codes01@gmail.com
 
 
 ## 🌐 Socials:
@@ -11,7 +11,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yourxayush&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURxAYUSH&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURxAYUSH&layout=compact)
+
 
