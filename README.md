@@ -1,13 +1,12 @@
 # 💫 About Me:
 
 👋 Hi there! I'm Ayush
-I'm a passionate web developer with a strong foundation in frontend and backend technologies. I enjoy creating intuitive and responsive web applications that solve real-world problems. Whether it’s building clones of popular platforms like Spotify, Zomato, or Twitter, or diving into full-stack projects like crowdfunding websites, I love turning ideas into reality.
+I'm a passionate web developer with a strong foundation in frontend and backend technologies. I enjoy creating intuitive and responsive web applications that solve real-world problems. Whether it’s building clones of popular platforms like Spotify, Zomato, or Twitter, or diving into full-stack projects like crowdfunding websites, I love turning ideas into reality. ![coder](https://github.com/user-attachments/assets/24035c32-9324-4a34-a916-a439ad49cc77)
+
 
 🔭 I’m currently working on building scalable web applications using modern frameworks like React and Node.js.<br><br>👯 I’m looking to collaborate on open source projects that enhance developer tools and community engagement.<br><br>🤝 I’m looking for help with optimizing performance, refining documentation, and testing new features for my current projects.<br><br>🌱 I’m currently learning advanced algorithms, cloud infrastructure management, and container orchestration.<br><br>💬 Ask me about anything from front-end development with JavaScript frameworks to best practices in API design.<br><br>⚡ Fun fact: I built my first website when I was 18, and my passion for coding has only grown since then!<br><br>📫 How to reach me email : ayush.codes01@gmail.com
                                                                                                                 
                                                                               
-                                                                              ![coder](https://github.com/user-attachments/assets/6c06734c-5a06-4917-a8c9-6d22b2180e3e)
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1_ayush_varshney) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-varshneyy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayush.codes01@gmail.com) 
