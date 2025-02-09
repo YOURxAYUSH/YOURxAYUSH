@@ -11,4 +11,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yourxayush&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURxAYUSH&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURxAYUSH&layout=compact)
 
