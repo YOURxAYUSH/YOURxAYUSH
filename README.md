@@ -16,7 +16,7 @@ I'm a passionate web developer with a strong foundation in frontend and backend 
 
 ![code](https://github.com/user-attachments/assets/9532e6e4-ae42-4626-be85-e6651d96ba3c)
 
-
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURxAYUSH&show_icons=true&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yourxayush&limit=5&theme=dark&combine_all_yearly_contributions=true)
